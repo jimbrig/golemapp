@@ -1,0 +1,1 @@
+golemapp:::app_server
